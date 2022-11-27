@@ -16,7 +16,7 @@ Neste projeto foi realizada a modelagem conceitual, lógica e física de um banc
 * **Modelagem Lógica** utilizando _brModelo_
 * **Modelagem Física** e criação do Banco de Dados utilizando _MySQL Workbench_ através de Script SQL
 
-O enunciado, arquivos das modelagens e script de criação do banco de bados se encontram na pasta "Projeto 1"
+O enunciado, arquivos das modelagens e script de criação do banco de bados se encontram na pasta do ["Projeto 1"](https://github.com/brunoaugp/bootcamp_eng_dados/tree/master/Projeto1 "Link Projeto1")
 
 
 ![imagem1](modelagem_fisica_p1.png "Modelagem Física")
