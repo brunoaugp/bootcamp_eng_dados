@@ -21,7 +21,7 @@ O enunciado, arquivos das modelagens e script de criação do banco de bados se 
 
 
 ![imagem1](img_modelagem.png "Modelagem Física")
-(Modelagem Relaciona e Dimensional - Projeto 1)
+(Modelagem Lógica Relacional e Dimensional - Projeto 1)
 
 (...)
 
