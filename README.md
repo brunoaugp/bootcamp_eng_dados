@@ -20,7 +20,7 @@ Neste projeto foi realizada a modelagem conceitual, lógica e física de um banc
 O enunciado, arquivos das modelagens e script de criação do banco de bados se encontram na pasta do ["Projeto 1"](https://github.com/brunoaugp/bootcamp_eng_dados/tree/master/Projeto1 "Link Projeto1").
 
 
-![imagem1](img_modelagem.png "Modelagem Física")
+![imagem1](img_modelagem.png "Modelagem")
 (Modelagem Lógica Relacional e Dimensional - Projeto 1)
 
 (...)
